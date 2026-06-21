@@ -1,13 +1,13 @@
 ## Application Screenshots
 
 ### Login Page
-![Login](screenshots/login-page.png)
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Login Page](screenshots/login-page.png)
 
-### Tasks Page
-![Tasks](screenshots/task-list.png)
+### Dashboard Page
 
-### MongoDB Atlas
-![MongoDB](screenshots/mongodb-atlas.png)
+![Dashboard Page](screenshots/dashboard-page.png)
+
+### MongoDB Atlas Collections
+
+![MongoDB Atlas](screenshots/mongodb-atlas-collections.png)
